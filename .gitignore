@@ -36,5 +36,6 @@ out/
 ### VS Code ###
 .vscode/
 
+### env file ###
 src/main/resources/application.properties
-#src/main/java/com/project/ecommerce/client/MailgunClient
+
